@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @mldahlem
 - 👀 I’m interested in learning about programming and databases.
 - 🌱 I’m currently learning pyhton and django framework.
-- 📫 How to reach me...
+- 📫 How to reach me:
+- e-mail: mldahlem@gmail.com
+- LinkedIn: /mldahlem
+- Instagram @mldahlem
 
 <!---
 mldahlem/mldahlem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
